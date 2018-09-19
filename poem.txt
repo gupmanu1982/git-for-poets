@@ -7,3 +7,5 @@ Green
 yellow
 Orange
 Red
+
+Adding missing color pink
